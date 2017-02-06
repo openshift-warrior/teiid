@@ -2,6 +2,8 @@ OBSOLETE
 ===============================
 This Demo is now OBSOLETE - for the latest, please see http://github.com/jboss-datavirtualization/openshift-cartridge-datavirtualization
 
+[![DEPLOY ON OpenShift](http://launch-shifter.rhcloud.com/launch/DEPLOY ON.svg)](https://openshift.redhat.com/app/console/application_type/custom?&cartridges[]=diy-0.1&initial_git_url=https://github.com/openshift-warrior/teiid.git&name=Teiid)
+
 Teiid Demo on OpenShift
 ===============================
 
